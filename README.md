@@ -1,2 +1,2 @@
 # minigrad
-My attmept at playing with Andrej Karpathy micro grad and George Hotz tinygrad concepts
+My attmept at Andrej Karpathy micrograd/George Hotz tinygrad
